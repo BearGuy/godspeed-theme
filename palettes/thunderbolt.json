@@ -1,0 +1,18 @@
+{
+  "appearance": "dark",
+  "background": "#0B1020",
+  "surface": "#151D35",
+  "surface_alt": "#1D2944",
+  "border": "#405575",
+  "foreground": "#E5EEFF",
+  "muted": "#A0B0D0",
+  "comment": "#899CBC",
+  "cyan": "#62DFFF",
+  "violet": "#A995FF",
+  "ice": "#C4F7FF",
+  "green": "#8EE6C2",
+  "amber": "#F5C878",
+  "red": "#FF8299",
+  "selection": "#263F62",
+  "ansi": ["#0B1020", "#FF8299", "#8EE6C2", "#F5C878", "#79B9FF", "#A995FF", "#62DFFF", "#D0DCF3", "#899CBC", "#FFA3B4", "#ADF3D4", "#FFDC9E", "#A3D1FF", "#C3B5FF", "#C4F7FF", "#F2F7FF"]
+}
