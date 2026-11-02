@@ -2,7 +2,34 @@
 
 A cold, electric theme inspired by Killua's Godspeed: deep blue, lightning cyan, storm violet, and a hit of green. Two variants: **Thunderbolt** (dark) and **Whirlwind** (light).
 
-Open [`preview/index.html`](preview/index.html) to explore the concept. The preview is illustrative, not a pixel-perfect rendering of any application.
+## Preview
+
+### Thunderbolt · dark
+
+Deep navy, electric cyan, storm violet and cool green.
+
+![Thunderbolt dark theme preview with Neovim-style code highlighting, Pi and colour swatches](preview/images/dark.png)
+
+### Whirlwind · light
+
+A frosted background with deeper blue, violet and green accents.
+
+![Whirlwind light theme preview with Neovim-style code highlighting, Pi and colour swatches](preview/images/light.png)
+
+These are illustrative mockups, not screenshots of running applications. To explore both variants interactively, clone the repo and open [`preview/index.html`](preview/index.html) in a browser.
+
+### Palette
+
+| Role | Thunderbolt | Whirlwind |
+| --- | --- | --- |
+| Background | `#0B1020` | `#F2F7FF` |
+| Surface | `#151D35` | `#E3EDFA` |
+| Text | `#E5EEFF` | `#1D2945` |
+| Electric blue | `#62DFFF` | `#006F9B` |
+| Violet | `#A995FF` | `#6650BA` |
+| Green | `#8EE6C2` | `#16745B` |
+| Amber | `#F5C878` | `#966000` |
+| Coral | `#FF8299` | `#B93255` |
 
 ## Use
 
@@ -46,7 +73,7 @@ This changes one terminal block via `set_theme`, not all existing/future blocks 
 
 ### Slack
 
-Copy the comma-separated colours from `slack/thunderbolt.txt` or `slack/whirlwind.txt` into Slack's custom sidebar theme settings. Slack controls the rest of its UI.
+`slack/thunderbolt.txt` and `slack/whirlwind.txt` contain experimental legacy eight-colour palettes. Current Slack versions may not accept this format; a working four-colour mapping has not yet been verified.
 
 ## Develop
 
